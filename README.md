@@ -15,7 +15,7 @@ This project was developed by Luiz Augusto Grein
 
 install all the dependencies based on package.json file
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3333](http://localhost:3333) to view the api response in your browser.
